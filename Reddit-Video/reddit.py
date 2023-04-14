@@ -3,7 +3,7 @@ import re
 import praw
 import markdown_to_text
 import time
-from videoscript import videoscript
+from videoscript import VideoScript
 import configparser
 
 config = configparser.ConfigParser()
